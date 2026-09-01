@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "coffee shop", // required by Discord API, not shown in the client
         state: "stalking",     // this is what people actually see
-        type: 1,               // Custom
+        type: 3,               // Custom
       },
     ],
   },
